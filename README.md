@@ -1,7 +1,7 @@
 # Mentoring :technologist:	
 Share knowledge with my padawans.  :baby:
 
-## Newslatters
+## Newsletters
 
 - [JavaScript Weekly](https://javascriptweekly.com/). A free, once–weekly e-mail round-up of JavaScript news and articles. [Archive](https://javascriptweekly.com/issues).
 - [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/). Email newsletter twice a month with useful tips, tricks and resources for designers and developers.
